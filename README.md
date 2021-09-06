@@ -7,10 +7,10 @@
 ### My Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujin113&theme=react&show_icons=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=yujin113&theme=discord_old_blurple&count_private=true&show_icons=true" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin113&theme=react&layout=compact" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin113&count_private=true&theme=discord_old_blurple&layout=compact" height="180px">
 </a>
 
 ### Solved.ac Tier
