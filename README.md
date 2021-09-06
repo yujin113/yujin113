@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning `Spring`, `JPA`
 
-- 👩🏻‍🎓 Majoring Software Convergence in SMWU
+- 👩‍💻 Majoring Software Convergence in SMWU
 
 - ✏️ My [Blog](https://yjcruise.tistory.com/)
 
