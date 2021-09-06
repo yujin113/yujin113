@@ -8,7 +8,7 @@
 
 - ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a>
 
-
+<hr>
 
 ### My Github Stats
 <a href="#">
