@@ -1,6 +1,6 @@
 ### Hi, I'm Yujin! 👋
 
-- 🌱 I’m currently learning <pre><code>{Spring}</code></pre>, <pre><code>{JPA}</code></pre>
+- 🌱 I’m currently learning `Spring`, `JPA`
 
 - 👩🏻‍🎓 Majoring Software Convergence in SMWU
 
