@@ -4,9 +4,9 @@
 
 - 👩🏻‍🎓 Majoring Software Convergence in SMWU
 
-- My [Blog](https://yjcruise.tistory.com/)
+- ✏️ My [Blog](https://yjcruise.tistory.com/)
 
-- Contact me <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ahju0011@gmail.com"/></a>
+- ✉️ Contact me <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ahju0011@gmail.com"/></a>
 
 ### My Github Stats
 
