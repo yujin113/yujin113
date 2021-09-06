@@ -1,4 +1,4 @@
-## Hi, I'm Yujin! 👋
+# Hi, I'm Yujin! 👋
 
 - 🌱 I’m currently learning `Spring`, `JPA`
 
