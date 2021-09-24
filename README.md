@@ -3,7 +3,7 @@
 <p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p>
 <p align="center">✉️ <a href="mailto:claire9585@sookmyung.ac.kr">Contact me</a></p>
 
-<h3 align="center"><b>My Skill 🛠</b></h3>
+<h2 align="center"><b>My Skill 🛠</b></h2>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
