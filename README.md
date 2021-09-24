@@ -13,7 +13,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-002800?&style=for-the-badge&logo=Django&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-003200?&style=for-the-badge&logo=Django&logoColor=white"/>
 </p>
 
 <!-- - ✏️ My [Blog](https://yjcruise.tistory.com/) -->
