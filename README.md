@@ -1,13 +1,5 @@
 # Hi, I'm Yujin! 👋
 
-- 🌱 I’m currently learning `Spring`, `JPA`
-
-- 👩‍💻 Majoring Software Convergence in SMWU
-
-- ✏️ My [Blog](https://yjcruise.tistory.com/)
-
-- ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a>
-
 <h3 align="center"><b>My Skill 🛠</b></h3>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -21,6 +13,16 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/>
 </p>
 
+<br>
+<p align="center">
+- 🌱 I’m currently learning `Spring`, `JPA`
+
+- 👩‍💻 Majoring Software Convergence in SMWU
+
+- ✏️ My [Blog](https://yjcruise.tistory.com/)
+
+- ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a>
+</p>
 <br>
 <br>
 
