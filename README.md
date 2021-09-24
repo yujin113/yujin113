@@ -1,4 +1,4 @@
-# Hi, I'm Yujin! 👋
+<h1 align="center"><b>Hi, I'm Yujin! 👋</b></h1>
 
 <h3 align="center"><b>My Skill 🛠</b></h3>
 <p align="center">
@@ -15,15 +15,12 @@
 
 <br>
 
-- 🌱 I’m currently learning `Spring`, `JPA`
+<p align="center"><a href="https://yjcruise.tistory.com/">✏️ My Blog</a></p>
+<p align="center"><a href="mailto:claire9585@sookmyung.ac.kr">✉️ Contact me</a></p>
 
-- 👩‍💻 Majoring Software Convergence in SMWU
+<!-- - ✏️ My [Blog](https://yjcruise.tistory.com/) -->
+<!-- - ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a> -->
 
-- ✏️ My [Blog](https://yjcruise.tistory.com/)
-
-- ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a>
-
-<br>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=yujin113&theme=discord_old_blurple&count_private=true&show_icons=true" height="180px"> [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=claire11)](https://solved.ac/claire11)
