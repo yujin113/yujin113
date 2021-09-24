@@ -15,8 +15,8 @@
 
 <br>
 
-<p align="center"><a href="https://yjcruise.tistory.com/">✏️ My Blog</a></p>
-<p align="center"><a href="mailto:claire9585@sookmyung.ac.kr">✉️ Contact me</a></p>
+<p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p>
+<p align="center">✉️ <a href="mailto:claire9585@sookmyung.ac.kr">Contact me</a></p>
 
 <!-- - ✏️ My [Blog](https://yjcruise.tistory.com/) -->
 <!-- - ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a> -->
