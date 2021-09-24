@@ -14,7 +14,7 @@
 </p>
 
 <br>
-<p align="center">
+
 - 🌱 I’m currently learning `Spring`, `JPA`
 
 - 👩‍💻 Majoring Software Convergence in SMWU
@@ -22,7 +22,7 @@
 - ✏️ My [Blog](https://yjcruise.tistory.com/)
 
 - ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a>
-</p>
+
 <br>
 <br>
 
