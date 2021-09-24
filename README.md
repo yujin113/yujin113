@@ -1,5 +1,10 @@
 <h1 align="center"><b>Hi, I'm Yujin! 👋</b></h1>
 
+<p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p>
+<p align="center">✉️ <a href="mailto:claire9585@sookmyung.ac.kr">Contact me</a></p>
+
+<br>
+
 <h3 align="center"><b>My Skill 🛠</b></h3>
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
@@ -12,11 +17,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?&style=for-the-badge&logo=Django&logoColor=white"/>
 </p>
-
-<br>
-
-<p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p>
-<p align="center">✉️ <a href="mailto:claire9585@sookmyung.ac.kr">Contact me</a></p>
 
 <!-- - ✏️ My [Blog](https://yjcruise.tistory.com/) -->
 <!-- - ✉️ <a href="mailto:claire9585@sookmyung.ac.kr" target="_blank">Contact me</a> -->
