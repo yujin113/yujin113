@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Yujin! 👋</b></h1>
 
-<p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p>
+<!-- <p align="center">✏️ <a href="https://yjcruise.tistory.com/">My Blog</a></p> -->
 <p align="center">✉️ <a href="mailto:claire9585@sookmyung.ac.kr">Contact me</a></p>
 
 <h3 align="center"><b>👩‍💻 My Skill 👩‍💻</b></h3>
